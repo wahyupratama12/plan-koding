@@ -3,4 +3,4 @@ plan koding
 -belajar framework dan package
 -buat projek menggunakan git dah github
 -belajar piton
-dll dll
+dll
